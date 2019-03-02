@@ -2,7 +2,7 @@
 
 **This setup in opinionated.**
 
-I wanted to set up Torus on Windows 7 and Windows 10 Home and realized it was not as simple as I thought.
+I wanted to set up Torus on Windows 7 and Windows 10 Home and realized it was not as simple as I thought (at least compared to Linux and Mac).
 
 After reading and testing I got some batch scripts to somehow automate the process. 
 
