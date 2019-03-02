@@ -1,8 +1,8 @@
-# Windows 7 & 10 HOME Data Science setup
+# Windows 7 & 10 HOME Data Science setup (Torus, Docker and Cookiecutter)
 
 **This setup in opinionated. Please read the [disclaimer](#disclaimer) below**
 
-I wanted to set up Torus on Windows 7 and Windows 10 Home and realized it was not as simple as I thought (at least compared to Linux and Mac).
+I wanted to set up **Torus** on Windows 7 and Windows 10 Home and realized it was not as simple as I thought (at least compared to Linux and Mac).
 
 **As a summary, Docker Desktop is not supported for Windows 7 and Windows 10 HOME, so you have to install Docker Toolbox**
 
