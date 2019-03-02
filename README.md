@@ -2,7 +2,7 @@
 
 **This setup in opinionated. Please read the [disclaimer](#disclaimer) below**
 
-I wanted to set up **Torus** on Windows 7 and Windows 10 Home and realized it was not as simple as I thought (at least compared to Linux and Mac).
+I wanted to set up **[Torus](https://github.com/manifoldai/docker-cookiecutter-data-science)** on Windows 7 and Windows 10 Home and realized it was not as simple as I thought (at least compared to Linux and Mac).
 
 **As a summary, Docker Desktop is not supported for Windows 7 and Windows 10 HOME, so you have to install Docker Toolbox**
 
