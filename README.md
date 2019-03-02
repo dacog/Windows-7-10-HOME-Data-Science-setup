@@ -20,9 +20,10 @@ After reading and testing I got a batch script to somehow automate the process.
 ## Instructions
 
 1. Download scripts/data-science-windows-7-and-10-HOME.cmd to a folder of your choice. I recommend your _Documents_ or _Desktop_ folder.
-2. Right clic on the file and click on open as administrator  
+2. Right clic on the file and click on open as administrator
 
-![](open-as-admin.jpg)  
+![](open-as-admin.jpg)
+
 3. Follow the instructions.
 4. Open **Docker Quickstart Terminal** and cd to the project folder inside folder you chose
 5. From **Docker Quickstart Terminal** run ./start.sh
